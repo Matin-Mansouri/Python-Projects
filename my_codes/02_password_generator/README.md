@@ -1,6 +1,6 @@
-# Python Password Generator - Functional Approach
+# Python Password Generator
 
-Welcome to the Python Password Generator project - Functional Programming approach! This program generates three types of passwords using functional programming constructs such as functions, instead of classes (Object-Oriented Programming).
+Welcome to the Python Password Generator project! This program generates three types of passwords using functional programming constructs such as functions.
 
 The password generator creates:
 

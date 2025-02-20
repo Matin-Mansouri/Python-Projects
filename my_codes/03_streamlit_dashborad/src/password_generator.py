@@ -81,3 +81,4 @@ class PinCodeGenerator(PasswordGenerator):
         Generate a numeric pin code.
         """
         return ''.join(random.choice(string.digits) for _ in range(self.length))
+    

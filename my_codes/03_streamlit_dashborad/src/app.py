@@ -1,5 +1,5 @@
 import streamlit as st
-from password_generators import RandomPasswordGenerator, MemorablePasswordGenerator, PinCodeGenerator
+from password_generator import RandomPasswordGenerator, MemorablePasswordGenerator, PinCodeGenerator
 from nltk.corpus import words
 
 # Title of the application

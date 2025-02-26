@@ -42,8 +42,8 @@ def simulate_games(num_games: int = 1000) -> None:
     """
 
     # Simulate games where contestant keeps and switches doors
-    num_wins_without_switching = sum(monty_hall_game(switch_doors=False) for _ in range(num_games))
-    num_wins_with_switching = sum(monty_hall_game(switch_doors=True) for _ in range(num_games))
+    num_wins_without_switching = sum(monty_hall_game(switch_doors=True) for _ in range(num_games))
+    num_wins_with_switching = sum(monty_hall_game(switch_doors=False) for _ in range(num_games))
 
     return num_wins_without_switching, num_wins_with_switching
 

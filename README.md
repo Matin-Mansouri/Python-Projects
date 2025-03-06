@@ -31,7 +31,7 @@ This repository contains solutions to coding challenges from Pytopia.ai, categor
 ## 📌 How to Use  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/matin-mansouri/Project-Based-Python.git  
+   git clone https://github.com/matin-mansouri/Python-Projects.git  
    ```  
 2. Navigate to a project folder and check its README for details.  
 3. Run the solution script using Python:  

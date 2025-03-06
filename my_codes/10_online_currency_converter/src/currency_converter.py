@@ -4,7 +4,7 @@ from cachetools import cached, TTLCache
 
 
 # Define the cache with a max size of 100 items and a TTL of 5 minutes (300 seconds)
-cache = TTLCache(maxsize=100, ttl=300)
+cache = TTLCache(maxsize=100, ttl=5*60)
 
 
 # Function to get the exchange rate

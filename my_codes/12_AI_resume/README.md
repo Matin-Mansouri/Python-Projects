@@ -13,8 +13,8 @@ ResumeAI is an advanced tool that leverages the power of Large Language Models (
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/Matin-Mansouri/Python-Projects.git
+    cd my_codes/12_AI_resume/ 
     ```
 
 2. Install the required dependencies:
